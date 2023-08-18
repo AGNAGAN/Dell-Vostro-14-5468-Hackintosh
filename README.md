@@ -54,7 +54,7 @@ Success on macOS Monterey 12.6.7
 
 * Change the BIOS configuration in your laptop
 * Generate your SMBIOS and put info in the 'Generic' part of config.plist.
-* ![image](https://github.com/AGNAGAN/Dell-Vostro-14-5468-Hackintosh/assets/123486067/3d227ef2-c557-413a-9ffa-377f2793ff93)
+  ![image](https://github.com/AGNAGAN/Dell-Vostro-14-5468-Hackintosh/assets/123486067/3d227ef2-c557-413a-9ffa-377f2793ff93)
 
 
 ## Credits
