@@ -37,6 +37,7 @@ Success on macOS Monterey 12.6.7
 - [x] Sleep / Wake
 - [x] ACPI Battery
 - [x] NVRAM
+- [ ] Intel® HD Graphics 620 iGPU VGA Output (Did not check)
 - [ ] Realtek RTL8111 LAN (Did not check)
 
 - [ ] 940MX dGPU (Not supported)
